@@ -5,3 +5,4 @@ git config --global user.email "aaqibkhan26990@gmail.com"
 git config --global user.name "Aaqib99"
 
 for pushing use this url and change repo name : git remote set-url origin https://Aaqib99@github.com/Aaqib99/dorisagusiobo.git
+git push --set-upstream origin main
